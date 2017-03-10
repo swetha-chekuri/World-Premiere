@@ -53,11 +53,11 @@ body { margin: 0; padding: 0; background-color: #092f6e; color: #fff; }
 }
 
 #world-premiere .my-countdown .countdown-amount {
-	display: block; color: #ffffff; font-size: 5.6em; line-height: 55px;
+	display: block; color: #ffffff; font-size: 3em; line-height: 55px;
 }
 
 #world-premiere .my-countdown .countdown-period {
-	display: block; color: #6fb5f8; font-size: 1.4em; text-transform: uppercase; letter-spacing: 2px;
+	display: block; color: #6fb5f8; font-size: 1em; text-transform: uppercase; letter-spacing: 2px;
 }
 
 @media screen and (max-width:525px) {
